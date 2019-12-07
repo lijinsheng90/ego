@@ -8,6 +8,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 
  * Cookie 工具类
+ * 
+ * add by lijinsheng
  *
  */
 public final class CookieUtils {

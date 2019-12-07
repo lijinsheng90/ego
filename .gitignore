@@ -1,0 +1,37 @@
+/target/*
+/*/target/*
+.externalToolBuilders
+._pom.xml
+._src
+!.mvn/wrapper/maven-wrapper.jar
+/.settings/
+.classpath
+.project
+.metadata/
+.metadata
+/.metadata/
+/RemoteSystemsTempFiles/
+._ego-parent
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/

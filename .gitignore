@@ -1,5 +1,8 @@
 /target/*
-/*/target/*
+/target/
+/target
+/ego-parent/*/target
+/*/target/
 .externalToolBuilders
 ._pom.xml
 ._src
